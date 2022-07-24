@@ -19,7 +19,7 @@
 
 	<properties>
 		<sonar.host.url>http://43.204.234.99:9000/</sonar.host.url>
-		<sonar.login>6bc8eac54705b7eb5790b61922e5ec3d6f76b700</sonar.login>
+		<sonar.login>admin</sonar.login>
 		
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>
